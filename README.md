@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/fabricio-de-souza-santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-de-souza-santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-de-souza-santos"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-de-souza-santos&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
